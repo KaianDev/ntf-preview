@@ -1,0 +1,19 @@
+@media (max-width:575.98px) {
+    
+
+    main#preview-card-area{
+        width: 90%;
+    }
+
+    #image-card-area {
+        height: 54%;
+    }
+
+    #content {
+        height: 36%;
+    }
+
+    .attribution {
+        margin-top: -20px;
+    }
+}
